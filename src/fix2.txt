@@ -1,0 +1,5 @@
+git status
+git checkout main
+git log --oneline feature2
+git log
+git cherry-pick ab5b478
