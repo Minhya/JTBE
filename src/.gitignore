@@ -1,0 +1,9 @@
+### Ignorera .jar-filer ###
+*.jar
+
+### Ignorera out och target ###
+out/
+target/
+
+### Tillåt filer med .html även i target ###
+!target/**/*.html
